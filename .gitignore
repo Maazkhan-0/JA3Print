@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+venv312/
+.env
+reports/*
+!reports/.gitkeep
+*.pcap
+*.pcapng
